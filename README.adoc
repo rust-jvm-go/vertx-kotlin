@@ -1,6 +1,6 @@
-= vertx-kotlin (Vert.x v4, Kotlin v1.8.20)
+= vertx-kotlin (Vert.x v4.x, Kotlin v1.9.x)
 
-image:https://img.shields.io/badge/vert.x-4.4.1-purple.svg[link="https://vertx.io"]
+image:https://img.shields.io/badge/vert.x-4.5.0-purple.svg[link="https://vertx.io"]
 
 This application was generated using http://start.vertx.io
 
