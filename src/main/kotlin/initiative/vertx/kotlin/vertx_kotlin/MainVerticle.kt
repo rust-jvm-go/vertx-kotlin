@@ -13,7 +13,6 @@ import io.vertx.pgclient.PgBuilder
 import io.vertx.pgclient.PgConnectOptions
 import io.vertx.sqlclient.PoolOptions
 
-
 class MainVerticle : AbstractVerticle() {
 
   override fun start(startPromise: Promise<Void>) {
