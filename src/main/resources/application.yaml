@@ -4,3 +4,4 @@ datasource:
   database: localdb
   user: localdb
   password: localdb
+  maxSize: 5
